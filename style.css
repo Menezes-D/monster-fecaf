@@ -149,6 +149,9 @@ footer{
     .promocao{
         display: none;
     }
+    .lata-monster{
+    width: 80%;
+    }
     .conteudo-tipo{
         display: none;
     }
